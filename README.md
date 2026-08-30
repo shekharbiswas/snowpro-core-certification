@@ -6,7 +6,8 @@ Personal study notes, resources, and practice tracking for the **SnowPro Core Ce
 
 The SnowPro Core Certification demonstrates knowledge to implement and migrate to Snowflake — covering platform architecture, secure/scalable solution design, and core operations.
 
-**Official exam page:** https://learn.snowflake.com/en/certifications/snowpro-core/
+**Official exam page:** https://learn.snowflake.com/en/certifications/snowpro-core-c03
+
 
 ## Exam Domains Covered
 
