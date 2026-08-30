@@ -1,7 +1,7 @@
 # Resources
 
 ## Official
-- [SnowPro Core Certification page](https://achieve.snowflake.com/group/513324)
+- [SnowPro Core Certification page](https://learn.snowflake.com/en/certifications/snowpro-core-c03)
 - [Snowflake Documentation](https://docs.snowflake.com/)
 - [Snowflake University (free courses)](https://learn.snowflake.com/)
 - [Snowflake Exam Study Guide (PDF, via official cert page)](https://learn.snowflake.com/en/certifications/snowpro-core/)
